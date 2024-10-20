@@ -6,12 +6,13 @@
   "scripts": {
     "new": "zenn new:article",
     "preview": "zenn preview",
-    "publish": "zenn publish"
+    "publish": "zenn publish",
+    "dev": "zenn preview"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.154"
+    "zenn-cli": "^0.1.157"
   }
 }
